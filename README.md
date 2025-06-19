@@ -1,17 +1,19 @@
 # Workvivo One Time Passcode Generator
 
-A web application that generates One-Time Passcodes (OTP) for Workvivo users through API. This application provides a simple web interface where users can enter their email address to receive a secure OTP for authentication.
+A web application that generates One-Time Passcodes (OTP) for Workvivo users through API.
+This application provides a simple web interface where users can enter their email address to receive a secure OTP for authentication.
+Once Time Passcode feature will need to be enabled. Please contact Workvivo support before starting. `#f03c15`
 
 ## What This Application Does
 
 The application consists of:
 
-1. **Web Interface**: A clean, responsive HTML form where users can enter their email address
-2. **OTP Generation**: A backend API endpoint that generates secure OTPs using Workvivo's API
-3. **JWT Authentication**: Secure token-based authentication using RSA256 signing
-4. **Real-time Response**: Immediate feedback showing the generated OTP, expiration time, and login URL
-5. **Forgot your password? Link**: Please contact Workvivo support to link your website to "Forgot your password?" on login screen.
-6. **Workvivo configuratoin**: Make sure "Authentication Mode" is configured to "Mixed" under "Authentication Settings"(Workvivo Web Portal)
+1. **Forgot your password? Link**: Please contact Workvivo support to link your website to "Forgot your password?" on login screen.
+2. **Workvivo configuratoin**: Make sure "Authentication Mode" is configured to "Mixed" under "Authentication Settings"(Workvivo Web Portal)
+3. **Web Interface**: A clean, responsive HTML form where users can enter their email address
+4. **OTP Generation**: A backend API endpoint that generates secure OTPs using Workvivo's API
+5. **JWT Authentication**: Secure token-based authentication using RSA256 signing
+6. **Real-time Response**: Immediate feedback showing the generated OTP, expiration time, and login URL
    
 ### Key Features
 
