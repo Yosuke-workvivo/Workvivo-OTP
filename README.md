@@ -1,4 +1,4 @@
-# Workvivo OTP Generator
+# Workvivo One Time Passcode Generator
 
 A web application that generates One-Time Passcodes (OTP) for Workvivo users through API. This application provides a simple web interface where users can enter their email address to receive a secure OTP for authentication.
 
