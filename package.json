@@ -1,0 +1,17 @@
+{
+  "name": "workvivo-otp-generator",
+  "version": "1.0.0",
+  "description": "Web interface for Workvivo OTP generation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "node-jose": "^2.2.0",
+    "request": "^2.88.2",
+    "uuid": "^9.0.0"
+  }
+}
