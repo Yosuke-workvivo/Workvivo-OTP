@@ -12,7 +12,7 @@ This application provides a simple web interface where users can enter their ema
 
 ${\color{red}Note:}$ "Once Time Passcode" feature will need to be enabled on Workvivo tenant. Please contact Workvivo support before starting.
 1. **Forgot your password? Link**: Please contact Workvivo support to link your website to "Forgot your password?" on login screen.
-2. **Workvivo configuratoin**: Make sure "Authentication Mode" is "Mixed" under "Authentication Settings". (Workvivo Web Portal)
+2. **Workvivo configuration**: Make sure "Authentication Mode" is "Mixed" under "Authentication Settings". (Workvivo Web Portal)
 3. **User who can use OTP**: User will need to be capable of OTP Password Reset. (refer to "Login users who can use One Time Passcode" section.)
 4. **JWT Authentication**: Secure token-based authentication using RSA256 signing is required. (refer to "Required Files" section.)
    
