@@ -11,8 +11,8 @@ The application consists of:
 3. **JWT Authentication**: Secure token-based authentication using RSA256 signing
 4. **Real-time Response**: Immediate feedback showing the generated OTP, expiration time, and login URL
 5. **Forgot your password? Link**: Please contact Workvivo support to link your website to "Forgot your password?" on login screen.
-6. **Workvivo configuratoin**: Make sure "Authentication Mode" is configured to "Mixd" under "Authentication Settings"(Workvivo Web Portal)
-7. 
+6. **Workvivo configuratoin**: Make sure "Authentication Mode" is configured to "Mixed" under "Authentication Settings"(Workvivo Web Portal)
+   
 ### Key Features
 
 - **Secure OTP Generation**: Uses Workvivo's official API with JWT authentication
