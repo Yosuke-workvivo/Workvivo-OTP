@@ -3,7 +3,7 @@
 A web application that generates One-Time Passcodes (OTP) for Workvivo users through API.
 This application provides a simple web interface where users can enter their email address to receive a secure OTP for authentication.
 Once Time Passcode feature will need to be enabled. Please contact Workvivo support before starting. `#f03c15`
-
+$${\color{red}Red}$$
 ## What This Application Does
 
 The application consists of:
