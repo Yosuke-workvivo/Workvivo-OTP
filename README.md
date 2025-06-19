@@ -107,8 +107,7 @@ Ensure the following files are present in the same directory:
 - `jwtRS256.key`
 - `jwtRS256.key.pub`
 - `jwks.json`
- * There is a tool "generate-jwks.js" to generate for testing purpose.
- * Seek under tools directory.
+ Note) There is a tool "generate-jwks.js" to generate for testing purpose. Seek under "tools" folder.
 
 ### 5. Start the Application
 
